@@ -1,4 +1,4 @@
 - :wave: Hi, I’m David Méndez @DavidMdez
 - :rocket: I’m interested in technology, video games, chess!
-- :octocat: I’m a web developer
+- :octocat: I’m a Web Developer
 - :seedling: I’m currently learning new technologies
